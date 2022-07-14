@@ -1,6 +1,11 @@
-require 'calculator'
 
-describe Calculator do
-end
+
+class Calculator
+    def sum(a,b)
+        a + b 
+  end
+end    
+    
+ 
 
 
